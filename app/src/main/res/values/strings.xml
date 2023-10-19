@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Shop</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакти</string>
+    <string name="about_text">Про Нас</string>
+    <string name="main_scene_text">Головна</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="course_start_data">Почати навчання:</string>
+    <string name="course_level">Рівень:</string>
+</resources>
